@@ -1,0 +1,18 @@
+{
+  "taskForm.newTask": "Enter your task",
+  "taskForm.add": "Add",
+  "taskForm.priority": "Priority",
+  "taskForm.dueDate": "Due Date",
+  "taskForm.notes": "Notes",
+  "taskStatus.all": "All",
+  "taskStatus.active": "Active",
+  "taskStatus.completed": "Completed",
+  "taskItem.edit": "Edit",
+  "taskItem.save": "Save",
+  "taskItem.delete": "Delete",
+  "taskItem.name": "Task Name",
+  "priority.high": "High",
+  "priority.medium": "Medium",
+  "priority.low": "Low",
+  "taskList.noTasks": "No tasks found"
+}
